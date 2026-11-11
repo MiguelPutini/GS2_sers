@@ -1,0 +1,29 @@
+================================================================================
+ARQUIVO OFICIAL DE ENTREGA - GLOBAL SOLUTION (FIAP)
+DISCIPLINA: SOLUÇÕES EM ENERGIAS RENOVÁVEIS E SUSTENTÁVEIS
+CITIZEN ASSIST AI - MÓDULO ECOCITIZEN
+================================================================================
+
+[INSTRUÇÃO DO EDITAL]:
+"Enviar APENAS um arquivo .txt, contendo:
+• Nome completo e RM de cada integrante;
+• Link do repositório no GitHub;
+• Link do vídeo no YouTube."
+
+--------------------------------------------------------------------------------
+DADOS DOS INTEGRANTES:
+--------------------------------------------------------------------------------
+Nome Completo: [Nome do Integrante 1] - RM: [XXXXX]
+Nome Completo: [Nome do Integrante 2] - RM: [XXXXX]
+Nome Completo: [Nome do Integrante 3] - RM: [XXXXX]
+
+--------------------------------------------------------------------------------
+LINK DO REPOSITÓRIO NO GITHUB:
+--------------------------------------------------------------------------------
+https://github.com/[seu-usuario]/[seu-repositorio]
+
+--------------------------------------------------------------------------------
+LINK DO VÍDEO NO YOUTUBE (NÃO LISTADO, MÁXIMO 3 MINUTOS):
+--------------------------------------------------------------------------------
+https://youtu.be/[seu-link-aqui]
+

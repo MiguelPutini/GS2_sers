@@ -1,0 +1,84 @@
+================================================================================
+ROTEIRO COMPLETO PARA GRAVAÇÃO DO VÍDEO TÉCNICO (MÁXIMO 3 MINUTOS)
+DISCIPLINA: SOLUÇÕES EM ENERGIAS RENOVÁVEIS E SUSTENTÁVEIS - FIAP
+PROJETO: CITIZEN ASSIST AI - MÓDULO ECOCITIZEN
+================================================================================
+
+FORMATO EXIGIDO PELO EDITAL:
+- Duração máxima: 3 minutos (cuidado para não ultrapassar 1 segundo sequer!).
+- Modo de visibilidade no YouTube: "Não listado" (Unlisted).
+- Enquadramento recomendado: Compartilhamento de tela mostrando a interface rodando no navegador (http://localhost:8000), com a câmera do apresentador no cantinho ou áudio limpo e bem narrado.
+
+--------------------------------------------------------------------------------
+CRONOGRAMA DO VÍDEO (TEMPO SEGUNDO A SEGUNDO):
+--------------------------------------------------------------------------------
+
+[00:00 - 00:40] PARTE 1: APRESENTAÇÃO DO PÚBLICO E DO PROBLEMA
+--------------------------------------------------------------------------------
+O QUE MOSTRAR NA TELA:
+- Comece mostrando a tela inicial do sistema "Citizen Assist AI - EcoCitizen" no navegador ou o slide/cabeçalho do README com o nome dos integrantes e o tema.
+
+O QUE FALAR:
+"Olá, somos do grupo da Global Solution de Ciência da Computação da FIAP e hoje apresentamos a nossa contribuição para o Citizen Assist AI: o módulo EcoCitizen, voltado para Soluções em Energias Renováveis e Sustentáveis.
+
+Nosso público-alvo são os cidadãos e famílias urbanas de classe média e baixa que sofrem constantemente com os altos custos da conta de luz e com o desperdício involuntário de energia em suas residências.
+
+O grande problema que identificamos é a falta de orientações acessíveis e fundamentadas em dados reais: o cidadão comum não sabe quanto gasta de verdade em um chuveiro ou geladeira antiga, e tem receio de investir em energia solar por não compreender os custos, a viabilidade técnica e o tempo de retorno financeiro."
+
+
+[00:40 - 01:25] PARTE 2: ANÁLISE DE CONSUMO E COMPARAÇÃO DAS ALTERNATIVAS
+--------------------------------------------------------------------------------
+O QUE MOSTRAR NA TELA:
+- Dê zoom nos campos do simulador na coluna esquerda da aplicação ("Simulador Energético do Cidadão").
+- Aponte para o consumo base (ex: 250 kWh/mês e R$ 0,85/kWh) e para os dois cards de alternativas gerados na tela.
+
+O QUE FALAR:
+"Para resolver isso, desenvolvemos um modelo com base em dados oficiais da ANEEL, com tarifa média residencial de 85 centavos por kWh, irradiação solar do Atlas do INPE e fatores de emissão do Ministério da Ciência e Tecnologia.
+
+Para uma casa padrão com consumo de 250 kWh por mês, comparamos duas soluções concretas:
+
+A Alternativa 1 foca em Eficiência Energética: substituindo lâmpadas antigas por LED e a geladeira ineficiente por um modelo Inverter Selo Procel A+++. O investimento é de 2.520 reais, gerando uma economia de mais de 85 reais por mês e um retorno (payback) em apenas 2 anos e meio, além de evitar 102 kg de CO2 por ano.
+
+A Alternativa 2 é a nossa Fonte Renovável: a microgeração solar fotovoltaica On-Grid. Com 4 placas de 550W (totalizando 2,2 kWp instalados em cerca de 10 metros quadrados de telhado), o investimento de 8.360 reais gera uma economia de até 189 reais por mês, com payback estimado em 3,7 anos e evitando 227 kg de CO2 na atmosfera anualmente."
+
+
+[01:25 - 02:25] PARTE 3: DEMONSTRAÇÃO PRÁTICA DO ASSISTENTE DIGITAL
+--------------------------------------------------------------------------------
+O QUE MOSTRAR NA TELA:
+- Mude o foco da gravação para a coluna direita da tela: a interface de chat do "Citizen Assist AI".
+- Clique nos botões de perguntas rápidas (ou digite) para mostrar as respostas dinâmicas em ação:
+  1) Clique em "Chuveiro Elétrico";
+  2) Clique em "Energia Solar Vale a Pena?";
+  3) Clique em "Eficiência vs. Solar".
+
+O QUE FALAR:
+"Aqui na prática, o cidadão não precisa fazer contas complexas. O assistente digital Citizen Assist AI conversa em linguagem simples e direta.
+
+Ao perguntar sobre o chuveiro elétrico, por exemplo, o assistente calcula exatamente o impacto: 4 banhos diários de 10 minutos consom 110 kWh no mês, custando mais de 90 reais. Ele sugere a redução de 5 minutos no banho e o uso da posição verão, economizando quase 50 reais mensais.
+
+Quando o usuário pergunta sobre energia solar, a IA traduz o dimensionamento em número de placas, área necessária de telhado e viabilidade econômica.
+
+E quando perguntado sobre o que compensa mais, a IA apresenta a nossa recomendação estratégica: primeiro aplicar eficiência energética para enxugar a conta, para depois instalar um sistema solar menor e mais econômico."
+
+
+[02:25 - 03:00] PARTE 4: RECOMENDAÇÕES FINAIS, LIMITAÇÕES E ENCERRAMENTO
+--------------------------------------------------------------------------------
+O QUE MOSTRAR NA TELA:
+- Aponte para a caixa amarela de alerta na tela ("Condições & Limitações") ou clique no botão de atalho "Fontes e Limitações".
+- Mostre o README do GitHub com a tabela dos testes de usuários registrados.
+
+O QUE FALAR:
+"Como critério fundamental do edital, nossa solução nunca promete economias milagrosas. O assistente sempre explicita as limitações: a energia solar depende de irradiação sazonal, telhado próprio sem sombreamento e das regras da Lei 14.300 sobre tarifas mínimas. Para moradores de apartamentos, o assistente orienta a opção de energia solar por assinatura.
+
+Realizamos testes com usuários reais que nos ajudaram a simplificar termos técnicos como 'kWp' para 'número de placas'.
+
+Com isso, entregamos uma ferramenta tecnicamente fundamentada, sustentável e que gera impacto real na vida dos cidadãos. Muito obrigado!"
+
+--------------------------------------------------------------------------------
+DICAS PARA UMA GRAVAÇÃO PERFEITA:
+1. Abra o navegador em tela cheia com http://localhost:8000 antes de dar o REC.
+2. Use um gravador gratuito como OBS Studio, Loom ou até o Xbox Game Bar (Windows + G).
+3. Cronometre no relógio para cravar entre 2m45s e 2m55s (não estoure 3 minutos).
+4. Suba no YouTube com a opção de privacidade: "NÃO LISTADO" (Unlisted).
+================================================================================
+
