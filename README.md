@@ -10,7 +10,8 @@
 * **Lucas Klein de Veiga** - RM: 570029
 
 **Repositório GitHub:** `https://github.com/MiguelPutini/GS2_sers.git`  
-**Link do Vídeo no YouTube (Não Listado):** `https://youtu.be/SEU_VIDEO_AQUI`
+**Link do Vídeo no YouTube (Não Listado):** `https://youtu.be/vfEuardnCS0?is=67E0h2Yeu9zD26Kg
+ `
 
 ---
 
