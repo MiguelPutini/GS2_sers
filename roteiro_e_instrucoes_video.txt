@@ -2,6 +2,10 @@
 ROTEIRO COMPLETO PARA GRAVAÇÃO DO VÍDEO TÉCNICO (MÁXIMO 3 MINUTOS)
 DISCIPLINA: SOLUÇÕES EM ENERGIAS RENOVÁVEIS E SUSTENTÁVEIS - FIAP
 PROJETO: CITIZEN ASSIST AI - MÓDULO ECOCITIZEN
+INTEGRANTES:
+- Miguel Putini (RM: 571624)
+- Alexandre Rizzi (RM: 569621)
+- Lucas Klein de Veiga (RM: 570029)
 ================================================================================
 
 FORMATO EXIGIDO PELO EDITAL:
@@ -16,7 +20,7 @@ CRONOGRAMA DO VÍDEO (TEMPO SEGUNDO A SEGUNDO):
 [00:00 - 00:40] PARTE 1: APRESENTAÇÃO DO PÚBLICO E DO PROBLEMA
 --------------------------------------------------------------------------------
 O QUE MOSTRAR NA TELA:
-- Comece mostrando a tela inicial do sistema "Citizen Assist AI - EcoCitizen" no navegador ou o slide/cabeçalho do README com o nome dos integrantes e o tema.
+- Comece mostrando a tela inicial do sistema "Citizen Assist AI - EcoCitizen" no navegador ou o cabeçalho do README com os integrantes (Miguel, Alexandre e Lucas).
 
 O QUE FALAR:
 "Olá, somos do grupo da Global Solution de Ciência da Computação da FIAP e hoje apresentamos a nossa contribuição para o Citizen Assist AI: o módulo EcoCitizen, voltado para Soluções em Energias Renováveis e Sustentáveis.
@@ -30,7 +34,7 @@ O grande problema que identificamos é a falta de orientações acessíveis e fu
 --------------------------------------------------------------------------------
 O QUE MOSTRAR NA TELA:
 - Dê zoom nos campos do simulador na coluna esquerda da aplicação ("Simulador Energético do Cidadão").
-- Aponte para o consumo base (ex: 250 kWh/mês e R$ 0,85/kWh) e para os dois cards de alternativas gerados na tela.
+- Aponte para o consumo base (ex: 250 kWh/mês e R$ 0,85/kWh) e para os cards gerados: Alternativa 1 (Eficiência), Alternativa 2 (Solar On-Grid) e o card verde de Recomendação Híbrida.
 
 O QUE FALAR:
 "Para resolver isso, desenvolvemos um modelo com base em dados oficiais da ANEEL, com tarifa média residencial de 85 centavos por kWh, irradiação solar do Atlas do INPE e fatores de emissão do Ministério da Ciência e Tecnologia.
@@ -49,7 +53,7 @@ O QUE MOSTRAR NA TELA:
 - Clique nos botões de perguntas rápidas (ou digite) para mostrar as respostas dinâmicas em ação:
   1) Clique em "Chuveiro Elétrico";
   2) Clique em "Energia Solar Vale a Pena?";
-  3) Clique em "Eficiência vs. Solar".
+  3) Clique em "Eficiência vs. Solar" (e aponte para o card verde da Estratégia Híbrida na tela).
 
 O QUE FALAR:
 "Aqui na prática, o cidadão não precisa fazer contas complexas. O assistente digital Citizen Assist AI conversa em linguagem simples e direta.
@@ -81,4 +85,3 @@ DICAS PARA UMA GRAVAÇÃO PERFEITA:
 3. Cronometre no relógio para cravar entre 2m45s e 2m55s (não estoure 3 minutos).
 4. Suba no YouTube com a opção de privacidade: "NÃO LISTADO" (Unlisted).
 ================================================================================
-

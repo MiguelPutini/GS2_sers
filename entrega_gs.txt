@@ -13,17 +13,16 @@ CITIZEN ASSIST AI - MÓDULO ECOCITIZEN
 --------------------------------------------------------------------------------
 DADOS DOS INTEGRANTES:
 --------------------------------------------------------------------------------
-Nome Completo: [Nome do Integrante 1] - RM: [XXXXX]
-Nome Completo: [Nome do Integrante 2] - RM: [XXXXX]
-Nome Completo: [Nome do Integrante 3] - RM: [XXXXX]
+Nome Completo: Miguel Putini - RM: 571624
+Nome Completo: Alexandre Rizzi - RM: 569621
+Nome Completo: Lucas Klein de Veiga - RM: 570029
 
 --------------------------------------------------------------------------------
 LINK DO REPOSITÓRIO NO GITHUB:
 --------------------------------------------------------------------------------
-https://github.com/[seu-usuario]/[seu-repositorio]
+https://github.com/MiguelPutini/GS2_sers.git
 
 --------------------------------------------------------------------------------
 LINK DO VÍDEO NO YOUTUBE (NÃO LISTADO, MÁXIMO 3 MINUTOS):
 --------------------------------------------------------------------------------
 https://youtu.be/[seu-link-aqui]
-

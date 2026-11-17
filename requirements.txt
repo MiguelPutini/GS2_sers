@@ -1,0 +1,20 @@
+# ==============================================================================
+# CITIZEN ASSIST AI - ECOCITIZEN
+# Disciplina: Soluções em Energias Renováveis e Sustentáveis (FIAP - 1CC)
+# ==============================================================================
+#
+# A aplicação e o motor de simulação foram desenvolvidos utilizando 100% a
+# biblioteca padrão do Python (Standard Library), não exigindo pacotes externos
+# pesados para execução ou para os testes unitários.
+#
+# Compatibilidade: Python 3.8+ (testado e homologado no Python 3.10+)
+# Módulos utilizados:
+# - http.server / socketserver (servidor HTTP leve)
+# - urllib.parse (manipulação e parser de rotas e query strings)
+# - json (serialização e comunicação REST API)
+# - dataclasses / typing (tipagem estática e estruturas de dados)
+# - unittest (suíte de testes unitários automatizados)
+#
+# Caso deseje utilizar ferramentas opcionais de linting, formatação e testes:
+# pytest>=7.0.0
+# flake8>=6.0.0

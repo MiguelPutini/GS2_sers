@@ -5,12 +5,11 @@
 ---
 
 ### Integrantes do Grupo
-* **Nome do Integrante 1** - RM: XXXXX
-* **Nome do Integrante 2** - RM: XXXXX
-* **Nome do Integrante 3** - RM: XXXXX
-* **Nome do Integrante 4** - RM: XXXXX
-* **Nome do Integrante 5** - RM: XXXXX
+* **Miguel Putini** - RM: 571624
+* **Alexandre Rizzi** - RM: 569621
+* **Lucas Klein de Veiga** - RM: 570029
 
+**Repositório GitHub:** `https://github.com/MiguelPutini/GS2_sers.git`  
 **Link do Vídeo no YouTube (Não Listado):** `https://youtu.be/SEU_VIDEO_AQUI`
 
 ---
@@ -99,7 +98,7 @@ Para cumprir a exigência do edital quanto à usabilidade e utilidade da soluç�
 
 ## 7. Instruções para Executar e Testar a Solução
 
-A solução foi desenvolvida utilizando a biblioteca padrão do Python (sem necessidade de instalar pacotes pesados externos).
+A solução foi desenvolvida utilizando a biblioteca padrão do Python (sem dependência obrigatória de pacotes pesados externos), garantindo portabilidade e execução imediata em qualquer ambiente.
 
 ### Pré-requisitos
 - Python 3.8 ou superior instalado.
@@ -107,17 +106,25 @@ A solução foi desenvolvida utilizando a biblioteca padrão do Python (sem nece
 ### Passo a Passo de Execução:
 1. Abra o terminal na pasta do projeto:
    ```bash
-   cd gs2sers
+   cd gs2_sers
    ```
-2. Inicie o servidor da aplicação:
+2. (Opcional) Instalar ou verificar dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Executar os testes unitários automatizados:
+   ```bash
+   python test_simulador.py
+   ```
+4. Iniciar o servidor da aplicação:
    ```bash
    python app.py
    ```
-3. Abra o seu navegador e acesse:
+5. Abra o seu navegador e acesse:
    ```text
    http://localhost:8000
    ```
-4. Teste as funcionalidades:
-   - Altere os valores de consumo (kWh) e tarifa para ver a atualização em tempo real dos cálculos.
-   - Utilize o chat interativo do **EcoCitizen** clicando nos atalhos ou digitando dúvidas sobre economia de energia.
+6. Teste as funcionalidades:
+   - Altere os valores de consumo (kWh) e tarifa para ver a atualização em tempo real dos cálculos (Cenário Base, Eficiência, Solar e Estratégia Híbrida).
+   - Utilize o chat interativo do **EcoCitizen** clicando nos atalhos ou digitando dúvidas sobre economia de energia, aluguel/apartamento, eletrodomésticos e fontes renováveis.
 
